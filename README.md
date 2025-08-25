@@ -1,5 +1,5 @@
 # Ethical-AI-in-Content-Creation
-# 🤖⚖️ Ethical AI Content Creation Platform
+
 
 # 🤖⚖️ Ethical AI Content Creation Platform
 
